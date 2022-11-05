@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Anna, a Technical Writer 
+- 👀 I’m interested in creating API and documents to code documentation.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on documentation projects.
+- 📫 How to reach me email me at annamelherr@gmail.com.
